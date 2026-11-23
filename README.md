@@ -20,5 +20,5 @@ mencetak struk.
 
 ## Screenshot
 
-![Tampilan awal](screenshot/tampilan-awal.png)
-![Struk setelah dihitung](screenshot/struk.png)
+![Tampilan awal](screenshoot/tampilan-awal.png)
+![Struk setelah dihitung](screenshoot/struk.png)
